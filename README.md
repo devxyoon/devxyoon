@@ -28,3 +28,7 @@ I want to become a developer who continuously improve my knowledge and skills.
 
 
 - Databases : MariaDB, H2, MongoDB
+
+### 👩‍💻 About Me
+
+- Blog : https://velog.io/@devxyoon
